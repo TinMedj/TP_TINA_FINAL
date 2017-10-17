@@ -20,6 +20,7 @@ public class VectorHelper {
         //System.out.print("votre vecteur est mis à jour ");
     }
 
+    //il faut que je change ceci pour montrer un conflit
     /**
      * methode pour afficher le contenu d'un veceur
      * @param v vecteur dont on veu voir les elements
