@@ -12,6 +12,7 @@ public class main {
         Vector<Integer> vec3=new Vector<Integer>();
         Vector<Integer> min_max=new Vector<Integer>();
         System.out.print("initialisation du vecteur01");
+        //teste conflit
         VectorHelper.creer_vector(vec1,5);
         System.out.print("\n affichage du contenu du vecteur01 ");
         VectorHelper.afficher_vector(vec1);
