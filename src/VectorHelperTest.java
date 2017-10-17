@@ -1,5 +1,6 @@
 import org.junit.Test;
 
+import javax.management.OperationsException;
 import java.util.Vector;
 import static org.junit.Assert.*;
 
@@ -45,33 +46,24 @@ public class VectorHelperTest {
         assertEquals(input,expected);
 
     }
-    /*
-        @Test
-        public void somme2Vector() throws  sizeException,Exception {
+
+    @Test (expected = sizeException.class)
+        public void somme2Vector() throws sizeException {
             Vector<Integer> input1 = new Vector<Integer>();
             input1.addElement(55);
             input1.addElement(12);
             input1.addElement(10);
-            input1.addElement(60);
+           // input1.addElement(60);
             Vector<Integer> input2 = new Vector<Integer>();
             input2.addElement(55);
             input2.addElement(12);
             input2.addElement(10);
             input2.addElement(60);
             Vector<Integer> output = new Vector<Integer>();
-            try{
-                VectorHelper.somme2Vector(input1,input2,output);
-
-            }
-            catch (sizeException e) {
-                assert (e.getMessage());
-
-            }
-
-
+        VectorHelper.somme2Vector(input1,input2,output);
 
         }
-    */
+
     @Test
     public void min_max() throws Exception {
         Vector<Integer> input = new Vector<Integer>();
