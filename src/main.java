@@ -8,7 +8,7 @@ public class main {
 
 
         Vector<Integer> vec1=new Vector<Integer>();
-        //ceci est ^pour tester le conflit
+
         Vector<Integer> vec2=new Vector<Integer>();
         Vector<Integer> vec3=new Vector<Integer>();
         Vector<Integer> min_max=new Vector<Integer>();
