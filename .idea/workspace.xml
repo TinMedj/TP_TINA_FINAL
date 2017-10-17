@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ca1862-d0b0-4636-87e3-316df4532f39" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelper.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelperTest.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelperTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/main.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VectorHelperTest.java" afterPath="$PROJECT_DIR$/src/VectorHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/VectorHelper.html" afterPath="$PROJECT_DIR$/DOC/VectorHelper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/VectorHelperTest.html" afterPath="$PROJECT_DIR$/DOC/VectorHelperTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/allclasses-frame.html" afterPath="$PROJECT_DIR$/DOC/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/allclasses-noframe.html" afterPath="$PROJECT_DIR$/DOC/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/constant-values.html" afterPath="$PROJECT_DIR$/DOC/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/deprecated-list.html" afterPath="$PROJECT_DIR$/DOC/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/help-doc.html" afterPath="$PROJECT_DIR$/DOC/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-1.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-2.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-3.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-4.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-5.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-6.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-7.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-8.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index.html" afterPath="$PROJECT_DIR$/DOC/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/main.html" afterPath="$PROJECT_DIR$/DOC/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/overview-tree.html" afterPath="$PROJECT_DIR$/DOC/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-frame.html" afterPath="$PROJECT_DIR$/DOC/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-summary.html" afterPath="$PROJECT_DIR$/DOC/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-tree.html" afterPath="$PROJECT_DIR$/DOC/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/serialized-form.html" afterPath="$PROJECT_DIR$/DOC/serialized-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/sizeException.html" afterPath="$PROJECT_DIR$/DOC/sizeException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.java" afterPath="$PROJECT_DIR$/src/main.java" />
     </list>
     <ignored path="TP_TINA_FINAL.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,16 +51,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="256">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#172#181#0" expanded="true" />
-                <element signature="e#225#234#0" expanded="true" />
-                <element signature="e#277#286#0" expanded="true" />
-                <element signature="e#332#341#0" expanded="true" />
+                <element signature="e#224#233#0" expanded="true" />
+                <element signature="e#276#285#0" expanded="true" />
+                <element signature="e#331#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,14 +69,14 @@
       <file leaf-file-name="VectorHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
@@ -114,9 +140,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/VectorHelper.java" />
-        <option value="$PROJECT_DIR$/src/main.java" />
         <option value="$PROJECT_DIR$/src/sizeException.java" />
         <option value="$PROJECT_DIR$/src/VectorHelperTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java" />
       </list>
     </option>
   </component>
@@ -593,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508269310968</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="teste somme de deux vecteurs reussis">
+      <created>1508272370687</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1508272370687</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -634,7 +667,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04248366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -666,7 +699,8 @@
     <MESSAGE value=" teste conflit" />
     <MESSAGE value="changement de branche" />
     <MESSAGE value="without zny comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="without zny comments" />
+    <MESSAGE value="teste somme de deux vecteurs reussis" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste somme de deux vecteurs reussis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -687,22 +721,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="e#172#181#0" expanded="true" />
-            <element signature="e#225#234#0" expanded="true" />
-            <element signature="e#277#286#0" expanded="true" />
-            <element signature="e#332#341#0" expanded="true" />
-          </folding>
+          <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -724,6 +745,19 @@
             <element signature="e#2090#2099#0" expanded="true" />
             <element signature="e#2478#2487#0" expanded="true" />
             <element signature="e#2652#2661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#172#181#0" expanded="true" />
+            <element signature="e#224#233#0" expanded="true" />
+            <element signature="e#276#285#0" expanded="true" />
+            <element signature="e#331#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
