@@ -3,6 +3,3 @@
  */
 public class sizeException extends Throwable {
 }
-//je veux avoir un conflit mais je n'y arrive pas
-//je veux modifier quelque chose
-//je veux modifier quelque chose
