@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ca1862-d0b0-4636-87e3-316df4532f39" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelper.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelperTest.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/VectorHelperTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/main.class" afterPath="$PROJECT_DIR$/out/production/TP_TINA_FINAL/main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/VectorHelper.html" afterPath="$PROJECT_DIR$/DOC/VectorHelper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/VectorHelperTest.html" afterPath="$PROJECT_DIR$/DOC/VectorHelperTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/allclasses-frame.html" afterPath="$PROJECT_DIR$/DOC/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/allclasses-noframe.html" afterPath="$PROJECT_DIR$/DOC/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/constant-values.html" afterPath="$PROJECT_DIR$/DOC/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/deprecated-list.html" afterPath="$PROJECT_DIR$/DOC/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/help-doc.html" afterPath="$PROJECT_DIR$/DOC/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-1.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-2.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-3.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-4.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-5.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-6.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-7.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index-files/index-8.html" afterPath="$PROJECT_DIR$/DOC/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/index.html" afterPath="$PROJECT_DIR$/DOC/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/main.html" afterPath="$PROJECT_DIR$/DOC/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/overview-tree.html" afterPath="$PROJECT_DIR$/DOC/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-frame.html" afterPath="$PROJECT_DIR$/DOC/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-summary.html" afterPath="$PROJECT_DIR$/DOC/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/package-tree.html" afterPath="$PROJECT_DIR$/DOC/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/serialized-form.html" afterPath="$PROJECT_DIR$/DOC/serialized-form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOC/sizeException.html" afterPath="$PROJECT_DIR$/DOC/sizeException.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.java" afterPath="$PROJECT_DIR$/src/main.java" />
     </list>
     <ignored path="TP_TINA_FINAL.iws" />
@@ -54,13 +28,13 @@
       <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="320">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#172#181#0" expanded="true" />
-                <element signature="e#224#233#0" expanded="true" />
-                <element signature="e#276#285#0" expanded="true" />
-                <element signature="e#331#340#0" expanded="true" />
+                <element signature="e#246#255#0" expanded="true" />
+                <element signature="e#298#307#0" expanded="true" />
+                <element signature="e#353#362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +102,7 @@
       </map>
     </option>
     <push-targets>
-      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="branche1" />
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="master" />
     </push-targets>
   </component>
   <component name="GradleLocalSettings">
@@ -626,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508272370687</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commenter le main">
+      <created>1508273138017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508273138017</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -700,7 +681,8 @@
     <MESSAGE value="changement de branche" />
     <MESSAGE value="without zny comments" />
     <MESSAGE value="teste somme de deux vecteurs reussis" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste somme de deux vecteurs reussis" />
+    <MESSAGE value="commenter le main" />
+    <option name="LAST_COMMIT_MESSAGE" value="commenter le main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -751,13 +733,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="320">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#172#181#0" expanded="true" />
-            <element signature="e#224#233#0" expanded="true" />
-            <element signature="e#276#285#0" expanded="true" />
-            <element signature="e#331#340#0" expanded="true" />
+            <element signature="e#246#255#0" expanded="true" />
+            <element signature="e#298#307#0" expanded="true" />
+            <element signature="e#353#362#0" expanded="true" />
           </folding>
         </state>
       </provider>
